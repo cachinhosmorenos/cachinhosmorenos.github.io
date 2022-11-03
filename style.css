@@ -11,5 +11,13 @@ em strong {
 }
 
 #missao {
-   font-size: 20px
+   font-size: 20px]
+}
+
+.itens {
+   font-style: italic
+}
+
+.benefícios {
+   background: #FFFFFF;
 }
